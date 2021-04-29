@@ -1,7 +1,7 @@
 # Alpha_Screener
-Applying CAPM to determine alpha and beta of stock excess returns, taken from Dr. Abdullah Karasan.
+Applying CAPM to determine alpha and beta of stock excess returns.  Notes taken from Dr. Abdullah Karasan.
 
-Asset Pricing Model¶
+Asset Pricing Model
 Financial investment decision is a function of risk and return, which are positively related to each other. Investor tries to obtain highest possible return while mitigating the risk as much as possible. So, in a nutshell, investor tend to invest in an asset with best risk-return combination. But the question is how can we estimate the best risk-return combination?
 
 This lesson tries to tackle this question using two celebrated models. In this part of the lesson, we will discuss the two prominent models about asset valuation:
